@@ -16,6 +16,9 @@ This is a simple digital clock project made using HTML, CSS, and JavaScript. It 
 - `style.css`: This file contains the CSS styling of the project.
 - `script.js`: This file contains the JavaScript code to make the clock work.
 - `README.md`: This file contains information about the project.
+  
+## Output
+![image](https://github.com/kiruthika2256/DIGITAL_CLOCK/assets/103475132/d560659e-924c-41e0-a685-8286efb96d05)
 
 ## Credits
 
