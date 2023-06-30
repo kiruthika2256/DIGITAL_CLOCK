@@ -1,6 +1,3 @@
----
-permalink: /index.html
----
 
 # DIGITAL_CLOCK
 Digital clock using Java script
